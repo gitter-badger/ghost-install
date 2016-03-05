@@ -13,7 +13,7 @@
 
 ######################################################################################
 # TODO: Improve input checks; Support more distributions; Support more init methods; #
-#       Check if folders and files already exist;                                    #
+#       Check if folders and files already exist; Add NGINX to the mix               #
 ######################################################################################
 
 # Check for root
